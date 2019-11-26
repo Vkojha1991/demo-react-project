@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "pageUrl":"/",
+        "pageName": "Home"
+    },
+    {
+        "id":2,
+        "pageUrl":"/about",
+        "pageName": "About"
+    },
+    {
+        "id":3,
+        "pageUrl":"/services",
+        "pageName": "Services"
+    },
+    {
+        "id":4,
+        "pageUrl":"/contact",
+        "pageName": "Contact"
+    },
+    {
+        "id":5,
+        "pageUrl":"/login",
+        "pageName": "Login"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "classes": "col-lg-8 col-sm-6",
+        "img": "dataImg/s5.jpg",
+        "heading": "Heading here",
+        "description":"Neque porro est Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor no sea takimata sanctus est Lorem ipsum."
+    },
+    {
+        "id":2,
+        "classes": "col-lg-4 col-sm-6 mt-sm-0 mt-4",
+        "img": "dataImg/s2.jpg",
+        "heading": "Heading here",
+        "description": "Neque porro est Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor no sea takimata sanctus est Lorem ipsum."
+    },
+    {
+        "id":3,
+        "classes": "col-lg-4 col-sm-6 my-4",
+        "img": "dataImg/about.jpg",
+        "heading": "Heading here",
+        "description": "Neque porro est Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor no sea takimata sanctus est Lorem ipsum."
+    },
+    {
+        "id":4,
+        "classes": "col-lg-4 col-sm-6 my-sm-4",
+        "img": "dataImg/s4.jpg",
+        "heading": "Heading here",
+        "description": "Neque porro est Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor no sea takimata sanctus est Lorem ipsum."
+    },
+    {
+        "id":5,
+        "classes": "col-lg-4 col-sm-6 my-4",
+        "img": "dataImg/s5.jpg",
+        "heading": "Heading here",
+        "description": "Neque porro est Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor no sea takimata sanctus est Lorem ipsum."
+    },
+    {
+        "id":6,
+        "classes": "col-lg-4 col-sm-6",
+        "img": "dataImg/s5.jpg",
+        "heading": "Heading here",
+        "description": "Neque porro est Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor no sea takimata sanctus est Lorem ipsum."
+    }
+]

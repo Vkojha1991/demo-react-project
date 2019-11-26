@@ -1,0 +1,14 @@
+[
+    {
+        "username":"admin",
+        "password":"administrator"
+    },
+    {
+        "username":"testing",
+        "password":"test"
+    },
+    {
+        "username":"running",
+        "password":"start"
+    }
+]

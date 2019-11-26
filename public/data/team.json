@@ -1,0 +1,26 @@
+[
+    {
+        "img": "dataImg/te1.jpg",
+        "name": "Laura Hill",
+        "designation": "Cheif exicutive officer",
+        "description": "vallis molestie arcu morbi dapibus suscipit ante sit effic arcu morbi dapibus suscipit ante sit efitur eu ante vesti.",
+        "social": {
+            "fb":"https://www.facebook.com",
+            "tw":"https://www.facebook.com",
+            "dr":"https://dribbble.com",
+            "gp":"https://google.com"
+        }
+    },
+    {
+        "img": "dataImg/te2.jpg",
+        "name": "Thomson Doe",
+        "designation": "Director",
+        "description": "vallis molestie arcu morbi dapibus suscipit ante sit effic arcu morbi dapibus suscipit ante sit efitur eu ante vesti.",
+        "social": {
+            "fb":"https://www.facebook.com",
+            "tw":"https://www.facebook.com",
+            "dr":"https://dribbble.com",
+            "gp":"https://google.com"
+        }
+    }
+]

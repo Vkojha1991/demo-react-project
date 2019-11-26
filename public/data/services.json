@@ -1,0 +1,22 @@
+[
+    {
+        "icons":"fa-pencil",
+        "heading":"Clean Design",
+        "description": "Quisque sagittis lacus eu lorem sodalesd vulputate velitdipisc inagittis lacg enean adipiscing."
+    },
+    {
+        "icons":"fa-laptop",
+        "heading":"Clean View",
+        "description": "Quisque sagittis lacus eu lorem sodalesd vulputate velitdipisc inagittis lacg enean adipiscing."
+    },
+    {
+        "icons":"fa-rocket",
+        "heading":"Easy Parallax",
+        "description": "Quisque sagittis lacus eu lorem sodalesd vulputate velitdipisc inagittis lacg enean adipiscing."
+    },
+    {
+        "icons":"fa-book",
+        "heading":"Easy Doucumention",
+        "description": "Quisque sagittis lacus eu lorem sodalesd vulputate velitdipisc inagittis lacg enean adipiscing."
+    }
+]
